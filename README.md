@@ -4,12 +4,29 @@ SNS 원문 텍스트를 고양이와 강아지의 다양한 감정으로 변환�
 
 ##  프로젝트 개요
 
-이 프로젝트는 **Google Gemini API**를 활용하여 일반적인 SNS 텍스트를 동물(고양이, 강아지)의 특성과 6가지 감정 상태를 반영한 텍스트로 변환합니다. 총 **17,596개**의 증강된 데이터셋을 구축했습니다.
+이 프로젝트는 **Google Gemini API**를 활용하여 일반적인 SNS 텍스트를 동물(고양이, 강아지)의 특성과 6가지 감정 상태를 반영한 텍스트로 변환합니다. 미야옹 자체모델 파인튜닝을 위한 총 **17,596개**의 증강된 데이터셋을 구축했습니다.
 
 ###  주요 목표
 - 자연어 처리 모델의 성능 향상을 위한 데이터 다양성 확보
 - 동물 말투와 감정 표현의 체계적인 데이터 구축
 - 균형 잡힌 감정 분포를 가진 대규모 데이터셋 생성
+
+##  전체 프로젝트 데이터 현황
+
+### 📊 **데이터 증강 성과**
+- **총 원문 데이터**: 2,604개
+- **총 증강 데이터**: 20,582개  
+- **데이터 증강 비율**: 7.9배
+- **최종 고품질 데이터셋**: 17,596개
+
+### 📁 **파일별 상세 현황**
+
+| 파일명 | 타입 | 데이터 수 | 평균 길이 | 설명 |
+|--------|------|-----------|-----------|------|
+| `증강_데이터17000개(22일업데이트).jsonl` | 증강된 데이터 | 17,596개 | 29.6자 | 🎯 **최종 메인 데이터셋** |
+| `0615미야옹_합성_데이터.jsonl` | 증강된 데이터 | 2,986개 | 33.1자 | 초기 버전 데이터 |
+| `0617합성한원문들.jsonl` | 원문 데이터 | 2,043개 | 29.4자 | AI 생성 원문 모음 |
+| `미야옹원문데이터_최종.jsonl` | 원문 데이터 | 561개 | 30.8자 | 기본 원문 데이터 |
 
 ##  데이터 분포 (총 17,596개)
 
@@ -25,9 +42,21 @@ SNS 원문 텍스트를 고양이와 강아지의 다양한 감정으로 변환�
 - **Curious**: 2,931개 (16.66%)
 - **Sad**: 2,932개 (16.66%)
 
-![포스트 타입 분포](데이터시각화/최종_분포_post_type_distribution.png)
-![감정 분포](데이터시각화/최종_분포_emotion_distribution.png)
-![포스트 타입별 감정 분포](데이터시각화/최종_분포_post_type_emotion_distribution.png)
+### 📈 **시각화 자료**
+
+#### 최종 증강 데이터 (17,596개) 분포
+![포스트 타입 분포](https://raw.githubusercontent.com/jungmin827/KTB-meow-datagenerate/develop/데이터시각화/최종_분포_post_type_distribution.png)
+![감정 분포](https://raw.githubusercontent.com/jungmin827/KTB-meow-datagenerate/develop/데이터시각화/최종_분포_emotion_distribution.png)
+![포스트 타입별 감정 분포](https://raw.githubusercontent.com/jungmin827/KTB-meow-datagenerate/develop/데이터시각화/최종_분포_post_type_emotion_distribution.png)
+
+#### 0615 미야옹 합성 데이터 (2,986개) 분포
+![0615 포스트 타입 분포](https://raw.githubusercontent.com/jungmin827/KTB-meow-datagenerate/develop/데이터시각화/0615미야옹_합성_데이터_post_type_distribution.png)
+![0615 감정 분포](https://raw.githubusercontent.com/jungmin827/KTB-meow-datagenerate/develop/데이터시각화/0615미야옹_합성_데이터_emotion_distribution.png)
+![0615 포스트 타입별 감정 분포](https://raw.githubusercontent.com/jungmin827/KTB-meow-datagenerate/develop/데이터시각화/0615미야옹_합성_데이터_post_type_emotion_distribution.png)
+
+#### 원문 데이터 분석
+![0617 합성한 원문들 분석](https://raw.githubusercontent.com/jungmin827/KTB-meow-datagenerate/develop/데이터시각화/0617합성한원문들_analysis.png)
+![미야옹 원문 데이터 분석](https://raw.githubusercontent.com/jungmin827/KTB-meow-datagenerate/develop/데이터시각화/미야옹원문데이터_최종_analysis.png)
 
 ##  프로젝트 구조
 
@@ -41,13 +70,15 @@ SNS 원문 텍스트를 고양이와 강아지의 다양한 감정으로 변환�
 │   ├── 데이터_감정_분포파악.py            # 데이터 분포 분석 도구
 │   └── lsonl형식통일.py                 # JSON/JSONL 형식 변환
 ├── 데이터/                             # 데이터 저장소
-│   ├── 증강_데이터17000개(22일업데이트).jsonl
-│   ├── 미야옹원문데이터_최종.jsonl
-│   └── 0617합성한원문들.jsonl
+│   ├── 증강_데이터17000개(22일업데이트).jsonl    # 🎯 메인 데이터셋
+│   ├── 0615미야옹_합성_데이터.jsonl             # 초기 증강 데이터
+│   ├── 0617합성한원문들.jsonl                  # AI 생성 원문
+│   └── 미야옹원문데이터_최종.jsonl             # 기본 원문
 ├── 데이터시각화/                        # 분포 시각화 결과
-│   ├── 최종_분포_post_type_distribution.png
-│   ├── 최종_분포_emotion_distribution.png
-│   └── 최종_분포_post_type_emotion_distribution.png
+│   ├── 최종_분포_*.png                    # 최종 데이터 분포 차트
+│   ├── 0615미야옹_합성_데이터_*.png         # 0615 데이터 분포 차트
+│   ├── 0617합성한원문들_analysis.png       # 원문 분석 차트
+│   └── 미야옹원문데이터_최종_analysis.png   # 원문 분석 차트
 ├── merge_miyang_data.py               # 데이터 병합 유틸리티
 └── README.md
 ```
