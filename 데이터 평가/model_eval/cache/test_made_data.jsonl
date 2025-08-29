@@ -1,0 +1,100 @@
+{"post_type": "cat", "emotion": "happy", "content": "오늘 날씨 정말 좋다!", "transformed_content": "냐하! 오늘 날씨 정말 좋다냥! 🐾 창가에서 햇볕 쬐면서 식빵 굽기 딱 좋은 날씨다옹! 기분이 너무 좋다먀! ☀️"}
+{"post_type": "dog", "emotion": "happy", "content": "오늘 날씨 정말 좋다!", "transformed_content": "왈왈! 오늘 날씨 최고다멍! 헥헥! 🐾 이런 날은 무조건 산책 가야 한다왈! 주인님, 빨리 공 들고 나가자멍! 🦴"}
+{"post_type": "cat", "emotion": "sad", "content": "나만 빼고 다들 행복해 보여", "transformed_content": "냐아... 창밖을 보니 다들 행복해 보인다냥... 나는 왜 이렇게 외로울까... 집사 무릎 위에서라도 위로받고 싶다옹... 😢"}
+{"post_type": "dog", "emotion": "sad", "content": "나만 빼고 다들 행복해 보여", "transformed_content": "낑... 다른 멍멍이들은 주인님이랑 신나게 노는데... 나는 혼자다멍... 꼬리가 축 처져서 올라오질 않는다왈... 🐾"}
+{"post_type": "cat", "emotion": "angry", "content": "내 간식 어디 갔어?", "transformed_content": "내 츄르 어디 갔냐옹! 캬아악! 분명히 여기 뒀는데! 집사, 네 짓이지! 당장 내놓지 않으면 온 집안을 뒤집어 놓겠다냥! 🔥"}
+{"post_type": "dog", "emotion": "angry", "content": "내 간식 어디 갔어?", "transformed_content": "으르렁! 내 뼈다귀 간식 어디 갔냐멍! 왈! 왈! 냄새는 나는데 보이질 않는다왈! 누가 훔쳐 갔냐멍! 가만 안 둔다왈! 🔥"}
+{"post_type": "cat", "emotion": "grumpy", "content": "자꾸 귀찮게 하지 마", "transformed_content": "흥. 자꾸 귀찮게 하지 마라냥. 지금은 그루밍할 시간이다옹. 만지지 말고 저리 가라냥. 🐯"}
+{"post_type": "dog", "emotion": "grumpy", "content": "자꾸 귀찮게 하지 마", "transformed_content": "낑... 자꾸 귀찮게 하지 마라멍. 나 지금 기분 별로다왈. 방석에서 웅크리고 있을 거니 건들지 마라멍. 😤"}
+{"post_type": "cat", "emotion": "curious", "content": "저건 무슨 소리지?", "transformed_content": "냥? 밖에서 이상한 소리가 들린다옹. 🐾 킁킁. 처음 들어보는 소린데, 확인해봐야겠다냥. 저게 대체 뭐냐옹? ❓"}
+{"post_type": "dog", "emotion": "curious", "content": "저건 무슨 소리지?", "transformed_content": "멍! 멍! 현관문 밖에서 무슨 소리가 난다멍! 킁킁! 낯선 냄새도 나는 것 같다왈! 택배 아저씨인가? 간식 주는 사람인가? 왈! 🐾"}
+{"post_type": "cat", "emotion": "happy", "content": "드디어 주말이다!", "transformed_content": "냐하하! 드디어 주말이다옹! 이제 집사가 하루 종일 나랑 놀아주겠지? 꾹꾹이 예약이다냥! ❤"}
+{"post_type": "dog", "emotion": "happy", "content": "드디어 주말이다!", "transformed_content": "멍멍! 주말이다! 헥헥! 이틀 내내 산책 갈 수 있는 거냐멍? 꼬리가 멈추질 않는다왈! 🐾"}
+{"post_type": "cat", "emotion": "sad", "content": "몸이 으슬으슬 춥다", "transformed_content": "냐아... 몸이 으슬으슬 춥다냥... 따뜻한 곳이 필요하다옹. 집사 이불 속에 들어가도 될까냐옹? 😢"}
+{"post_type": "dog", "emotion": "sad", "content": "몸이 으슬으슬 춥다", "transformed_content": "낑낑... 몸이 춥고 떨린다멍... 산책 갈 힘도 없다왈. 주인님 옆에 꼭 붙어있어야겠다멍... 🐾"}
+{"post_type": "cat", "emotion": "normal", "content": "인생이란 무엇일까?", "transformed_content": "창밖을 보며 생각한다냥. 인생이란 뭘까... 츄르를 먹고, 낮잠을 자고, 집사를 기다리는 것. 그게 인생의 전부일까냐옹? 🐾"}
+{"post_type": "dog", "emotion": "normal", "content": "인생이란 무엇일까?", "transformed_content": "멍... 인생이란 뭘까멍... 주인님을 기다리고, 산책을 하고, 간식을 먹는 것... 그게 행복인가? 멍... 🐾"}
+{"post_type": "cat", "emotion": "angry", "content": "진공청소기 너무 시끄러워!", "transformed_content": "캬아악! 저 요란한 괴물 또 나타났다냥! 너무 시끄럽다옹! 저리 치워라 집사! 하악! 침대 밑으로 숨을 거다냥! 🔥"}
+{"post_type": "dog", "emotion": "angry", "content": "진공청소기 너무 시끄러워!", "transformed_content": "왈! 왈! 왈! 저 시끄러운 거 또 움직인다멍! 우리 집을 공격하는 거냐왈! 으르렁! 내가 싸워서 이길 거다멍! 🔥"}
+{"post_type": "cat", "emotion": "curious", "content": "이 식물은 먹어도 되는 건가?", "transformed_content": "킁킁. 이 풀떼기에서 신기한 냄새가 난다냥. 캣닢인가? 🐾 한 번 씹어봐도 되는 거냐옹? 맛이 궁금하다먀. ❓"}
+{"post_type": "dog", "emotion": "curious", "content": "이 식물은 먹어도 되는 건가?", "transformed_content": "킁킁! 이 풀에서 흙냄새가 난다멍. 먹어도 되는 거냐왈? 🐾 주인님이 먹지 말라고 했는데, 무슨 맛일지 너무 궁금하다멍."}
+{"post_type": "cat", "emotion": "happy", "content": "네가 있어서 정말 다행이야", "transformed_content": "집사, 네가 내 집사라서 정말 다행이다냥. 냐앙~ 골골송은 특별히 너에게만 들려주는 거다옹. 꾹꾹. ❤"}
+{"post_type": "dog", "emotion": "happy", "content": "네가 있어서 정말 다행이야", "transformed_content": "주인님, 헥헥, 세상에 와서 당신을 만난 게 제일 다행이다멍! 꼬리 흔들! 평생 주인님만 따를 거다왈! 🐾"}
+{"post_type": "cat", "emotion": "grumpy", "content": "나 삐졌어. 말 걸지 마.", "transformed_content": "흥. 나 삐졌다냥. 꼬리로 바닥 탁탁. 말 걸지 마라옹. 츄르 주기 전까진 쳐다도 안 볼 거다냥. 🐯"}
+{"post_type": "dog", "emotion": "grumpy", "content": "나 삐졌어. 말 걸지 마.", "transformed_content": "낑... 나 삐졌다멍. 등 돌리고 앉아 있을 거다왈. 산책 가자고 해도 대답 안 할 거다멍. 😤"}
+{"post_type": "cat", "emotion": "sad", "content": "실수로 컵을 깨뜨렸어요", "transformed_content": "냐앙... 내가 안 그랬다옹... 꼬리가 멋대로 움직여서 컵을 떨어뜨렸다냥... 집사 화낼까 봐 무섭다옹... 😢"}
+{"post_type": "dog", "emotion": "sad", "content": "실수로 컵을 깨뜨렸어요", "transformed_content": "낑낑... 꼬리를 너무 신나게 흔들다가 컵을 깼다멍... 잘못했다왈... 눈치 보여서 구석에 숨어있어야겠다멍... 🐾"}
+{"post_type": "cat", "emotion": "normal", "content": "오늘은 뭘 하고 놀까?", "transformed_content": "흠. 오늘은 뭘 하고 놀면 좋을까냥. 쥐돌이를 사냥할까, 아니면 그냥 창밖을 구경할까. 고민된다옹. 🐾"}
+{"post_type": "dog", "emotion": "normal", "content": "오늘은 뭘 하고 놀까?", "transformed_content": "멍. 오늘 뭐하고 놀지? 주인님이랑 터그 놀이를 할까, 아니면 공놀이를 할까. 빨리 놀고 싶다멍. 🐾"}
+{"post_type": "cat", "emotion": "happy", "content": "이거 완전 대박인데?", "transformed_content": "냐하! 이 캣타워 완전 대박이다냥! 꼭대기까지 한 번에 올라올 수 있다옹! 여기서 온 세상을 구경할 거다먀! ✨"}
+{"post_type": "dog", "emotion": "happy", "content": "이거 완전 대박인데?", "transformed_content": "왈! 이 노즈워크 장난감 완전 대박이다멍! 킁킁! 간식이 계속 나온다왈! 너무 신난다멍! 🦴"}
+{"post_type": "cat", "emotion": "curious", "content": "거울 속에 있는 애는 누구지?", "transformed_content": "저기 거울 속에 있는 애는 누구냐옹? 내가 움직이면 따라 움직인다냥. 킁킁. 냄새는 안 나는데... 친구가 될 수 있을까냐옹? 🐾"}
+{"post_type": "dog", "emotion": "curious", "content": "거울 속에 있는 애는 누구지?", "transformed_content": "멍? 거울 속에 다른 멍멍이가 있다멍! 나랑 똑같이 생겼다왈! 같이 놀자고 짖어봐야겠다멍! 왈! 왈! 🐾"}
+{"post_type": "cat", "emotion": "angry", "content": "내 자리에 앉지 마!", "transformed_content": "캬악! 거긴 내 자리다냥! 내 냄새가 잔뜩 묻어있는 내 전용석이다옹! 당장 비켜라냥! 🔥"}
+{"post_type": "dog", "emotion": "angry", "content": "내 자리에 앉지 마!", "transformed_content": "으르렁... 거긴 내가 항상 눕는 자리다멍! 왜 주인님이 앉아있냐왈! 내 자리다멍! 비켜달라왈! 으르렁! 🔥"}
+{"post_type": "cat", "emotion": "sad", "content": "꿈에서 무서운 걸 봤어", "transformed_content": "냐앙... 꿈에서 진공청소기한테 쫓기는 꿈을 꿨다옹... 너무 무서웠다냥... 집사 옆에서 자고 싶다옹... 😢"}
+{"post_type": "dog", "emotion": "sad", "content": "꿈에서 무서운 걸 봤어", "transformed_content": "낑낑... 꿈에서 주인님이 사라지는 꿈을 꿨다멍... 너무 무서워서 깼다왈... 주인님 잘 있는지 확인해야겠다멍... 🐾"}
+{"post_type": "cat", "emotion": "happy", "content": "집사 무릎이 세상에서 제일 편해", "transformed_content": "냐아~ 역시 집사 무릎이 세상에서 제일 편하다냥. 여기서 골골송 부르면서 잠들 거다옹. 여기가 천국이다먀. ❤"}
+{"post_type": "dog", "emotion": "happy", "content": "주인님 냄새가 세상에서 제일 좋아", "transformed_content": "킁킁... 주인님 냄새가 세상에서 제일 좋다멍. 헥헥. 이 냄새를 맡고 있으면 마음이 편안해진다왈. 🐾"}
+{"post_type": "cat", "emotion": "grumpy", "content": "만져주는 건 좋은데, 배는 안돼", "transformed_content": "등을 만져주는 건 허락한다냥. 하지만 배는 안된다옹. 배를 만지는 순간 냥냥펀치가 날아갈 거다냥. 🐯"}
+{"post_type": "dog", "emotion": "grumpy", "content": "발 만지지 마. 기분 이상해", "transformed_content": "낑... 다른 데는 다 좋은데 발은 만지지 마라멍. 기분이 이상하다왈. 발 만지면 확 물어버릴지도 모른다멍. 😤"}
+{"post_type": "cat", "emotion": "normal", "content": "비둘기가 창밖에 앉아있네", "transformed_content": "창밖에 비둘기가 앉아있다냥. 꼬리가 살랑살랑 움직인다옹. 잡고 싶지만 잡을 수가 없군. 쳇. 🐾"}
+{"post_type": "dog", "emotion": "normal", "content": "다른 개가 짖는 소리가 들려", "transformed_content": "멍. 멀리서 다른 개가 짖는 소리가 들린다멍. 무슨 말을 하는 걸까. 나도 대답해줘야 하나. 왈. 🐾"}
+{"post_type": "cat", "emotion": "curious", "content": "이 봉투 소리는 간식 소리인가?", "transformed_content": "바스락! 냥? 이 봉투 소리는... 혹시 츄르 봉투 소리냐옹? 킁킁! 기대에 찬 눈빛으로 쳐다봐야겠다냥! 🐾"}
+{"post_type": "dog", "emotion": "curious", "content": "이 부스럭 소리는 간식 소리인가?", "transformed_content": "부스럭! 멍! 이 소리는 간식 봉지 뜯는 소리가 분명하다멍! 헥헥! 뭐 주는 거냐왈? 나도 줄 거냐멍? 꼬리 흔들! 🐾"}
+{"post_type": "cat", "emotion": "happy", "content": "숨바꼭질하자!", "transformed_content": "집사! 숨바꼭질하자냥! 내가 먼저 숨을 테니 찾아보라옹! 냐하하! 커튼 뒤에 숨으면 절대 못 찾겠지? 🐾"}
+{"post_type": "dog", "emotion": "happy", "content": "터그 놀이하자!", "transformed_content": "멍멍! 주인님! 이 줄다리기 장난감 물고 왔다멍! 터그 놀이하자왈! 내가 이길 거다멍! 헥헥! 🐾"}
+{"post_type": "cat", "emotion": "sad", "content": "그루밍을 해도 기분이 나아지지 않아", "transformed_content": "계속 핥고 있는데도 기분이 나아지질 않는다냥... 뭔가 슬픈 일이 있었던 것 같다옹... 냐아... 😢"}
+{"post_type": "dog", "emotion": "sad", "content": "산책을 해도 신나지가 않아", "transformed_content": "산책을 하고 있는데도 하나도 신나지가 않는다멍... 꼬리도 안 흔들리고... 왜 이러지... 낑... 🐾"}
+{"post_type": "cat", "emotion": "angry", "content": "내 스크래쳐에 손대지 마!", "transformed_content": "하악! 그건 내 발톱을 가는 소중한 스크래쳐다옹! 집사 네가 쓸 물건이 아니다냥! 손대면 할퀸다! 🔥"}
+{"post_type": "dog", "emotion": "angry", "content": "내 밥그릇에 손대지 마!", "transformed_content": "으르렁! 내 밥그릇에 왜 손을 대냐멍! 밥이 있든 없든 그건 내 거다왈! 으르렁! 🔥"}
+{"post_type": "cat", "emotion": "grumpy", "content": "잠 좀 자자. 불 꺼.", "transformed_content": "냥... 잠 좀 자자옹. 왜 아직도 불을 켜두는 거냐옹. 불 꺼라 집사. 눈부시다냥. 😤"}
+{"post_type": "dog", "emotion": "grumpy", "content": "잠 좀 자자. 시끄러워.", "transformed_content": "낑... 잠 좀 자자멍... TV 소리 너무 크다왈... 나 잘 거니까 조용히 해달라멍... 😤"}
+{"post_type": "cat", "emotion": "normal", "content": "오늘도 똑같은 하루가 반복되는군", "transformed_content": "일어나서 밥 먹고, 창밖 보고, 잠자고. 오늘도 어제랑 똑같은 하루다냥. 내일은 좀 다른 일이 있으려나. 🐾"}
+{"post_type": "dog", "emotion": "normal", "content": "주인님은 언제쯤 돌아오실까", "transformed_content": "멍... 주인님이 나간 지 한참 됐다멍. 현관문 쪽에서 소리가 나나 계속 귀 기울이고 있다왈. 빨리 왔으면 좋겠다멍. 🐾"}
+{"post_type": "cat", "emotion": "happy", "content": "새 장난감이다! 신난다!", "transformed_content": "냐옹! 이게 다 뭐냐옹! 새로운 낚싯대랑 쥐돌이 인형이다냥! 냐하하! 오늘 밤새도록 놀 거다옹! ❤"}
+{"post_type": "dog", "emotion": "happy", "content": "새 장난감이다! 신난다!", "transformed_content": "왈! 왈! 삑삑 소리 나는 새 공이다멍! 헥헥! 너무 좋다왈! 빨리 던져달라멍! 🦴"}
+{"post_type": "cat", "emotion": "curious", "content": "집사는 왜 맨날 저 네모난 걸 두드리지?", "transformed_content": "집사는 왜 맨날 저 빛나는 네모난 걸 손가락으로 두드릴까냐옹? 킁킁. 그 위는 따뜻해서 잠자기 좋은데 말이다냥. 🐾"}
+{"post_type": "dog", "emotion": "curious", "content": "주인님은 왜 저 네모난 걸 보고 웃지?", "transformed_content": "주인님은 왜 저 네모난 판을 보면서 웃는 거냐멍? 나보다 더 재밌는 게 있는 거냐왈? 킁킁. 냄새를 맡아봐도 아무 냄새도 안 난다멍. 🐾"}
+{"post_type": "cat", "emotion": "sad", "content": "내가 싫어진 건 아니지?", "transformed_content": "요즘 집사가 나랑 잘 안 놀아준다냥... 내가 싫어진 건 아니지? 냐앙... 불안하다옹... 와서 쓰다듬어 주면 안 될까냐옹? 😢"}
+{"post_type": "dog", "emotion": "sad", "content": "내가 싫어진 건 아니지?", "transformed_content": "주인님이 내 눈을 잘 안 봐준다멍... 낑... 내가 뭐 잘못했나? 내가 싫어진 건 아니겠지? 꼬리가 내려간다왈... 🐾"}
+{"post_type": "cat", "emotion": "angry", "content": "약 먹기 싫어!", "transformed_content": "이 쓴 건 뭐냐옹! 캬악! 약 먹기 싫다냥! 츄르에 섞어도 다 안다옹! 뱉어버릴 거다냥! 🔥"}
+{"post_type": "dog", "emotion": "angry", "content": "약 먹기 싫어!", "transformed_content": "퉤! 퉤! 이 맛없는 거 안 먹는다멍! 으르렁! 간식에 숨겨도 다 찾아낸다왈! 약 먹기 싫다멍! 🔥"}
+{"post_type": "cat", "emotion": "happy", "content": "캣닢 파티다!", "transformed_content": "냐아아~ 이게 바로 캣닢 향기! 뒹굴뒹굴~ 기분이 너무 좋다옹! 여기가 천국이다먀! 헤롱헤롱~ ❤"}
+{"post_type": "dog", "emotion": "happy", "content": "간식 파티다!", "transformed_content": "멍멍! 주인님이 간식을 종류별로 주신다멍! 헥헥! 오늘 무슨 날이냐왈? 너무 행복하다멍! 🦴"}
+{"post_type": "cat", "emotion": "grumpy", "content": "그만 좀 찍어. 초상권 있거든?", "transformed_content": "그 네모난 걸로 나 좀 그만 찍어라냥. 내 초상권은 소중하다옹. 모델료로 츄르 10개는 줘야 한다냥. 🐯"}
+{"post_type": "dog", "emotion": "grumpy", "content": "그만 좀 찍어. 귀찮아.", "transformed_content": "낑... 자꾸 그 핸드폰 들이밀지 마라멍. 귀찮다왈. '앉아' '손' 그만 시키고 그냥 간식이나 달라멍. 😤"}
+{"post_type": "cat", "emotion": "curious", "content": "택배 상자 안에는 뭐가 들었을까?", "transformed_content": "킁킁! 새로운 상자 냄새다냥! 이 안에는 뭐가 들었을까냐옹? 내 간식일까? 아니면 그냥 텅 빈 상자일까? 빨리 열어보라냥! 🐾"}
+{"post_type": "dog", "emotion": "curious", "content": "주인님 가방 안에는 뭐가 들었을까?", "transformed_content": "킁킁! 주인님 가방에서 맛있는 냄새가 난다멍! 뭐가 들어있는 거냐왈? 내 간식도 들어있냐멍? 코를 박고 확인해봐야겠다멍! 🐾"}
+{"post_type": "cat", "emotion": "sad", "content": "다리가 아파서 점프를 못하겠어", "transformed_content": "캣타워에 올라가고 싶은데, 다리가 아파서 점프를 못 하겠다냥... 냐아... 이제 높은 곳도 못 올라가는 늙은이가 된 건가... 슬프다옹... 😢"}
+{"post_type": "dog", "emotion": "sad", "content": "다리가 아파서 뛰지를 못하겠어", "transformed_content": "공을 던져줬는데, 다리가 아파서 뛰지를 못하겠다멍... 낑... 마음은 뛰고 싶은데 몸이 안 따라준다왈... 슬프다멍... 🐾"}
+{"post_type": "cat", "emotion": "happy", "content": "당신은 최고의 집사야", "transformed_content": "냐앙~ 당신은 세상 최고의 집사다냥. 밥도 제때 주고, 잘 놀아주고, 따뜻하게 해주고. 정말 사랑한다옹. 골골골... ❤"}
+{"post_type": "dog", "emotion": "happy", "content": "당신은 최고의 주인님이야", "transformed_content": "왈! 왈! 당신은 세상 최고의 주인님이다멍! 매일 산책시켜주고, 맛있는 밥 주고, 사랑해줘서 고맙다왈! 헥헥! 🐾"}
+{"post_type": "cat", "emotion": "normal", "content": "하품이 나온다", "transformed_content": "하아아품~ 냐암. 슬슬 낮잠 잘 시간인가 보다냥. 따뜻한 곳을 찾아봐야겠다옹. 🐾"}
+{"post_type": "dog", "emotion": "normal", "content": "하품이 나온다", "transformed_content": "하아품~ 멍. 밥 먹고 나니 졸리다멍. 주인님 다리 베고 한숨 자야겠다왈. 🐾"}
+{"post_type": "cat", "emotion": "angry", "content": "내 털에 이상한 거 묻히지 마!", "transformed_content": "캬악! 내 소중한 털에 이게 무슨 짓이냐옹! 이상한 냄새나는 걸 묻히지 마라냥! 하루 종일 그루밍해야 하잖아! 🔥"}
+{"post_type": "dog", "emotion": "angry", "content": "내 털에 이상한 옷 입히지 마!", "transformed_content": "으르렁! 이 갑갑한 옷은 뭐냐멍! 당장 벗겨달라왈! 옷 입는 거 싫다멍! 불편해서 못 걷겠다멍! 🔥"}
+{"post_type": "cat", "emotion": "grumpy", "content": "물이 맛이 없어", "transformed_content": "이 물그릇에 담긴 물, 맛이 이상하다냥. 신선한 물로 갈아달라옹. 흐르는 물이 아니면 안 마실 거다냥. 😤"}
+{"post_type": "dog", "emotion": "grumpy", "content": "산책 코스가 마음에 안 들어", "transformed_content": "낑... 맨날 똑같은 길로만 산책한다멍. 이 코스는 이제 지겹다왈. 새로운 냄새가 나는 곳으로 가고 싶다멍. 😤"}
+{"post_type": "cat", "emotion": "curious", "content": "전화기 저편에는 누가 있는 거야?", "transformed_content": "집사가 저 네모난 걸 귀에 대고 계속 말한다냥. 저 너머에는 누가 있는 거냐옹? 내 얘기도 좀 해달라냥. 🐾"}
+{"post_type": "dog", "emotion": "curious", "content": "초인종 소리가 나면 누가 오는 거야?", "transformed_content": "딩동! 멍! 이 소리가 나면 항상 낯선 사람이 온다멍. 오늘은 누가 오는 거냐왈? 맛있는 거 주는 사람이면 좋겠다멍! 왈! 왈! 🐾"}
+{"post_type": "cat", "emotion": "sad", "content": "혼자 있는 시간이 너무 길어", "transformed_content": "해가 뜨고 질 때까지 집사가 오지 않는다냥... 혼자 있는 시간이 너무 길고 외롭다옹... 냐아... 😢"}
+{"post_type": "dog", "emotion": "sad", "content": "혼자 있는 시간이 너무 무서워", "transformed_content": "낑낑... 주인님이 나가면 세상의 모든 소리가 다 무섭게 들린다멍... 혼자 있는 시간이 너무 무섭다왈... 😭"}
+{"post_type": "cat", "emotion": "happy", "content": "드디어 그가 내게 츄르를 주었다", "transformed_content": "냐하하! 드디어 집사가 내게 츄르를 하사하셨다옹! 이 순간을 얼마나 기다렸는지 모른다먀! 세상에서 제일 맛있다냥! ❤"}
+{"post_type": "dog", "emotion": "happy", "content": "드디어 그가 내게 공을 던져주었다", "transformed_content": "멍멍! 드디어 주인님이 나에게 공을 던져주었다멍! 헥헥! 전속력으로 달려가서 물어와야지! 너무 신난다왈! 🐾"}
+{"post_type": "cat", "emotion": "normal", "content": "나는 생각이 없다. 왜냐하면 아무 생각이 없기 때문이다.", "transformed_content": "나는 생각이 없다옹. 왜냐하면 아무 생각이 없기 때문이다냥. 그냥 지금 햇살이 좋을 뿐이다옹. 🐾"}
+{"post_type": "dog", "emotion": "normal", "content": "나는 생각이 없다. 왜냐하면 아무 생각이 없기 때문이다.", "transformed_content": "나는 생각이 없다멍. 왜냐하면 아무 생각이 없기 때문이다왈. 그냥 주인님만 보고 있을 뿐이다멍. 🐾"}
+{"post_type": "cat", "emotion": "happy", "content": "눈이 와요!", "transformed_content": "냐하! 창밖에 하얀 게 펑펑 내린다냥! 🐾 저게 눈이라는 건가옹? 따뜻한 창가에서 구경하니 너무 예쁘다먀! ✨"}
+{"post_type": "dog", "emotion": "happy", "content": "눈이 와요!", "transformed_content": "왈! 왈! 눈이다멍! 밖에서 눈이 온다왈! 헥헥! 나가서 발자국도 찍고 눈도 먹고 싶다멍! 주인님, 빨리 옷 입고 나가자멍! 🐾"}
+{"post_type": "cat", "emotion": "grumpy", "content": "다녀왔습니다", "transformed_content": "흥, 이제야 기어들어오는 거냐옹. 내가 얼마나 기다렸는지 알기나 해? 츄르 사 왔으면 용서해 주겠다냥. 🐯"}
+{"post_type": "dog", "emotion": "happy", "content": "다녀왔습니다", "transformed_content": "주인님! 헥헥! 돌아오셨군요! 멍멍! 너무 보고 싶었다왈! 꼬리가 떨어져라 흔들고 얼굴도 핥아줄 거다멍! 🐾❤"}
+{"post_type": "cat", "emotion": "happy", "content": "너 정말 최고야", "transformed_content": "냐앙~ 집사, 너 정말 최고다냥... 맨날 맛있는 거 주고, 쓰다듬어주고... 특별히 꾹꾹이를 해주겠다옹. 골골...❤"}
+{"post_type": "dog", "emotion": "happy", "content": "너 정말 최고야", "transformed_content": "왈! 주인님은 세상에서 제일 최고다멍! 헥헥! 주인님만 있으면 아무것도 필요 없다왈! 평생 함께해달라멍! 🐾"}
+{"post_type": "cat", "emotion": "sad", "content": "너무 심심해서 미칠 것 같아", "transformed_content": "냐아... 너무 심심하다옹... 쥐돌이도 재미없고... 잠도 안 온다냥... 집사, 나 좀 봐달라옹... 😢"}
+{"post_type": "dog", "emotion": "sad", "content": "너무 심심해서 미칠 것 같아", "transformed_content": "낑낑... 너무 심심해서 벽지라도 뜯어야겠다멍... 주인님은 나랑 안 놀아주고... 산책은 언제 가냐왈... 🐾"}
+{"post_type": "cat", "emotion": "curious", "content": "저거 한 입만 주면 안 돼?", "transformed_content": "킁킁... 집사, 그거 무슨 맛있는 냄새냐옹? 나도 딱 한 입만 먹어보면 안 되냐옹? 앞발로 콕 찔러볼까... 🐾❓"}
+{"post_type": "dog", "emotion": "curious", "content": "저거 한 입만 주면 안 돼?", "transformed_content": "주인님... 그거 뭐냐멍... 헥헥... 침이 뚝뚝 떨어진다왈... 저도 한 입만 주시면 안 되냐멍? 세상에서 제일 착한 표정으로 기다리겠다멍. 🥺"}
+{"post_type": "cat", "emotion": "sad", "content": "왜 나만 미워해?", "transformed_content": "냐아... 왜 나만 미워하는 거냐옹... 저 녀석은 예뻐하면서 나는 왜 혼내는 거냐옹... 구석에 숨어서 나오지 않을 거다냥... 😢"}
+{"post_type": "dog", "emotion": "angry", "content": "왜 나만 미워해?", "transformed_content": "왈! 왈! 왜 나한테만 소리치냐멍! 내가 뭘 그렇게 잘못했냐왈! 억울해서 짖는 거다멍! 으르렁! 🔥"}
+{"post_type": "cat", "emotion": "normal", "content": "잘 자, 좋은 꿈 꿔", "transformed_content": "집사, 잘 자라냥. 나도 네 옆에서 식빵 구우면서 잘 테니 좋은 꿈꿔라옹. 🐾"}
+{"post_type": "dog", "emotion": "normal", "content": "잘 자, 좋은 꿈 꿔", "transformed_content": "멍... 이제 자는 시간이구나. 주인님 옆자리는 내 거다멍. 잘 자라왈. 내가 밤새 지켜주겠다멍. 🐾"}
